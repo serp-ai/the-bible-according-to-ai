@@ -1,5 +1,13 @@
 # The Bible According to AI
 
-A just-for-fun project by [Devin Schumacher](https://devinschumacher.com/) for [SERP AI](https://serp.ai).
+[The Bible According to AI](https://serp.ly/@serpai/the-bible-according-to-ai)
+
+A just-for-fun project by [SERP AI](https://serp.ai).
 
 Enjoy.
+
+\--
+
+**Contributors:**
+
+* [@devinschumacher](https://devinschumacher.com/)
