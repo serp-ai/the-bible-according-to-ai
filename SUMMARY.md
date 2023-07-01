@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Bible According to AI](README.md)
+  * [Contributors](readme/contributors.md)
 
 ## GENESIS
 

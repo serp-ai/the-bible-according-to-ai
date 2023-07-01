@@ -5,9 +5,3 @@
 A just-for-fun project by [SERP AI](https://serp.ai).
 
 Enjoy.
-
-\--
-
-**Contributors:**
-
-* [@devinschumacher](https://devinschumacher.com/)
