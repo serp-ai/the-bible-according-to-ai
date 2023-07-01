@@ -32,7 +32,7 @@ And evening passed and morning came, marking the second day.
 
 ¹⁰ God called the dry ground “land” and the waters “seas.” And God saw that it was good.&#x20;
 
-<figure><img src="../.gitbook/assets/gensis 1_9-10.png" alt=""><figcaption><p>GENESIS 1:9-10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gensis 1_9-10 (1).png" alt=""><figcaption><p>GENESIS 1:9-10</p></figcaption></figure>
 
 ¹¹ Then God said, “Let the land sprout with vegetation—every sort of seed-bearing plant, and trees that grow seed-bearing fruit. These seeds will then produce the kinds of plants and trees from which they came.” And that is what happened.
 
