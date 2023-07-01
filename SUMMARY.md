@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Bible According to Midjourney](README.md)
+* [The Bible According to AI](README.md)
 
 ## GENESIS
 
