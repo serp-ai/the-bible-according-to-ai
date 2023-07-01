@@ -1,2 +1,5 @@
-# the-bible-according-to-ai
-A non-religious, just-for-fun project using generative image artificial intelligence to see what it comes up with when interpreting the Bible
+# The Bible According to Midjourney
+
+A just-for-fun project by [Devin Schumacher](https://devinschumacher.com/) for [SERP AI](https://serp.ai).
+
+Enjoy.
