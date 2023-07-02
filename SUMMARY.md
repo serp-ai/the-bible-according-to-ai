@@ -6,3 +6,4 @@
 ## GENESIS
 
 * [GENESIS 1](genesis/genesis-1.md)
+* [GENESIS 2](genesis/genesis-2.md)

@@ -32,7 +32,7 @@ And evening passed and morning came, marking the second day.
 
 ¹⁰ God called the dry ground “land” and the waters “seas.” And God saw that it was good.&#x20;
 
-<figure><img src="../.gitbook/assets/gensis 1_9-10 (1).png" alt=""><figcaption><p>GENESIS 1:9-10</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/gensis 1_9-10.png" alt=""><figcaption><p>GENESIS 1:9-10</p></figcaption></figure>
 
 ¹¹ Then God said, “Let the land sprout with vegetation—every sort of seed-bearing plant, and trees that grow seed-bearing fruit. These seeds will then produce the kinds of plants and trees from which they came.” And that is what happened.
 
@@ -58,13 +58,19 @@ And that is what happened.
 
 ¹⁸ to govern the day and night, and to separate the light from the darkness. And God saw that it was good.
 
-<figure><img src="../.gitbook/assets/genesis 1_16-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/genesis 1_16-18.png" alt=""><figcaption><p>GENESIS 1:16-18</p></figcaption></figure>
 
 ¹⁹ And evening passed and morning came, marking the fourth day.&#x20;
 
+
+
 ²⁰ Then God said, “Let the waters swarm with fish and other life. Let the skies be filled with birds of every kind.”&#x20;
 
-²¹ So God created great sea creatures and every living thing that scurries and swarms in the water, and every sort of bird—each producing offspring of the same kind. And God saw that it was good.&#x20;
+²¹ So God created great sea creatures and every living thing that scurries and swarms in the water, and every sort of bird—each producing offspring of the same kind.&#x20;
+
+<figure><img src="../.gitbook/assets/genesis 1_20-21.png" alt=""><figcaption></figcaption></figure>
+
+And God saw that it was good.&#x20;
 
 ²² Then God blessed them, saying, “Be fruitful and multiply. Let the fish fill the seas, and let the birds multiply on the earth.”&#x20;
 
@@ -72,7 +78,11 @@ And that is what happened.
 
 ²⁴ Then God said, “Let the earth produce every sort of animal, each producing offspring of the same kind—livestock, small animals that scurry along the ground, and wild animals.” And that is what happened.&#x20;
 
-²⁵ God made all sorts of wild animals, livestock, and small animals, each able to produce offspring of the same kind. And God saw that it was good.&#x20;
+²⁵ God made all sorts of wild animals, livestock, and small animals, each able to produce offspring of the same kind.&#x20;
+
+<figure><img src="../.gitbook/assets/genesis 1_22-25.png" alt=""><figcaption><p>GENESIS 1:24-25</p></figcaption></figure>
+
+And God saw that it was good.&#x20;
 
 ²⁶ Then God said, “Let us make human beings in our image, to be like us. They will reign over the fish in the sea, the birds in the sky, the livestock, all the wild animals on the earth, and the small animals that scurry along the ground.”&#x20;
 
@@ -84,9 +94,6 @@ And that is what happened.
 
 ³⁰ And I have given every green plant as food for all the wild animals, the birds in the sky, and the small animals that scurry along the ground—everything that has life.” And that is what happened.&#x20;
 
-³¹ Then God looked over all he had made, and he saw that it was very good! And evening passed and morning came, marking the sixth day.
+³¹ Then God looked over all he had made, and he saw that it was very good!&#x20;
 
-
-
-
-
+And evening passed and morning came, marking the sixth day.
